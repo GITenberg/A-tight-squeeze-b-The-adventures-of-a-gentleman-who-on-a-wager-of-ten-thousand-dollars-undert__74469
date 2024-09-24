@@ -1,0 +1,30 @@
+_repo: A-tight-squeeze-b-The-adventures-of-a-gentleman-who-on-a-wager-of-ten-thousand-dollars-undert__74469
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Staats, William
+    gutenberg_agent_id: '57517'
+    url: http://www.gutenberg.org/2009/agents/57517
+description: ''
+gutenberg_issued: '2024-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74469'
+language: en
+pgterms:marc904: https://archive.org/details/tightsqueezeorad00staaiala
+pgterms:marc905: 20230605103558staats
+pgterms:marc906: '1879'
+pgterms:marc907: US
+production_note: deaurider, Mary Meehan and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bLee and Shepard, $c1879.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A tight squeeze : $b The adventures of a gentleman, who, on a wager of ten
+  thousand dollars, undertook to go from New York to New Orleans in three weeks without
+  money, as a professional tramp.'
+url: http://www.gutenberg.org/ebooks/74469
