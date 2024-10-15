@@ -1,11 +1,16 @@
 _repo: A-tight-squeeze-b-The-adventures-of-a-gentleman-who-on-a-wager-of-ten-thousand-dollars-undert__74469
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74469-h/images/cover.jpg
 creator:
   author:
     agent_name: Staats, William
     gutenberg_agent_id: '57517'
     url: http://www.gutenberg.org/2009/agents/57517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74469#A-tight-squeeze-b-The-adventures-of-a-gentleman-who-on-a-wager-of-ten-thousand-dollars-undert_
 gutenberg_issued: '2024-09-24'
 gutenberg_type: Text
 identifiers:
